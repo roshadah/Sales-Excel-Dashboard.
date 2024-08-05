@@ -61,10 +61,9 @@ The main objectives of this project are:
 - **Observation**: Cash and Ewallet are the most preferred payment methods, followed by credit cards.
 - **Insight**: Ensuring smooth transactions for these payment methods is crucial for maintaining customer satisfaction.
 
-## Dashboard Preview
+# Egbeda SuperMarket Sales Dashboard
 
-![Dashboard Preview](Screenshot 2024-08-05 145000.png)
-
+![Dashboard Preview](https://github.com/roshadah/Sales-Excel-Dashboard./raw/main/Screenshot%202024-08-05%20145000.png)
 
 ## Conclusion
 
@@ -72,7 +71,7 @@ The **Egbeda SuperMarket Sales Dashboard** provides valuable insights into the s
 
 ## How to Use This Project
 
-1. **Clone the repository**: `git clone https://github.com/yourusername/egbeda-supermarket-sales-dashboard.git`
+1. **Clone the repository**: `git clone https://github.com/roshadah/egbeda-supermarket-sales-dashboard.git`
 2. **Open the Excel file**: Navigate to the dashboard to explore the data and insights.
 3. **Interact with the dashboard**: Use slicers to filter data by date, city, and product line to customize your view.
 
