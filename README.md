@@ -9,7 +9,7 @@ The **Egbeda SuperMarket Sales Dashboard** is a comprehensive data analysis and 
 The dataset used in this project contains sales data across various branches of Egbeda SuperMarket. The dataset includes information such as:
 
 - **Invoice ID**: Unique identifier for each sales transaction.
-- **Branch**: Identifies the branch of the supermarket (A, B, C).
+- **Branch**: Identifies the supermarket branch (A, B, C).
 - **City**: Location of each branch (Mandalay, Naypyitaw, Yangon).
 - **Customer Type**: Indicates whether the customer is a member (1) or not (0).
 - **Gender**: Gender of the customer (M/F).
