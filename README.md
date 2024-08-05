@@ -63,7 +63,7 @@ The main objectives of this project are:
 
 ## Dashboard Preview
 
-![Egbeda SuperMarket Sales Dashboard](path-to-your-dashboard-image.png)
+https://github.com/roshadah/Sales-Excel-Dashboard.
 
 ## Conclusion
 
