@@ -63,7 +63,7 @@ The main objectives of this project are:
 
 ## Dashboard Preview
 
-![Dashboard Preview]([path-to-your-image](https://github.com/roshadah/Sales-Excel-Dashboard./blob/main/Screenshot%202024-08-05%20145000.png))
+![Dashboard Preview](Screenshot 2024-08-05 145000.png)
 
 
 ## Conclusion
